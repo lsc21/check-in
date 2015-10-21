@@ -1,38 +1,18 @@
-Checkin 2014-02-11
-
-Report - Things that I finished yesterday
-Today - My goals for today
-This week - My goals for this week
-Someday - My long term goals
-Things to show - For the dev huddle
-
-=================
-EXAMPLE FROM NATE
-=================
+Checkin 2015-10-21
 
 Report:
-✓ Huddle prep
-✓ Huddle
-✓ Deemed Watch
-^ Prism Checkin meeting
-✓ breifly. Pairing w/ Rider
-✓ Make the Import UI outbound call list not suffer from n+1 query
-✓ Helped Elisa research Extra Help manual submission applications
+✓ HEAP: Figured out why react.js didn't work with selects for HEAP
+✓ Tri-weekly Review with Nate
+  HEAP: Fixed some HEAP Additional Questions bugs
 
 Today:
-  Deemed Watch
-  Maryland Data Conversion meeting with analytics
-  Prism Checkin meeting, rescheduled
-  Polishing and rehersing PhillyRb talk for tonight
+  HEAP: Fix remaining Additional Questions bugs
+  HEAP: Fix Expenses bugs
+  HEAP: Fix problems with letter translations
+  HEAP: Schedule time to use Sandi's computer for PDF app
 
 This week:
 
 Someday:
-  [rh] Working on Documents js clean-up
-* Identitee integration to PRISM
-  Move coreisma-rails and jquery-react-rails gems to PRISM
-  Create a page that shows all the identitee values
 
 Things to show:
-  Expenses object -> mi-rh-1-30
-  Speeding up some tests
