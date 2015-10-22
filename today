@@ -1,19 +1,24 @@
-Checkin 2015-10-21
+Checkin 2015-10-22
 
 Report:
-✓ HEAP: Figured out why react.js didn't work with selects for HEAP
-✓ Tri-weekly Review with Nate
+✓ Investigated CPU spike on PA Production
+✓ HEAP: Fixed Expenses bugs
   HEAP: Fixed some HEAP Additional Questions bugs
+  HEAP: Figure out why farming income isn't requested for letters
 
 Today:
+  HEAP: Ensure validation only occurs for HEAP expenses
   HEAP: Fix remaining Additional Questions bugs
-  HEAP: Fix Expenses bugs
   HEAP: Fix problems with letter translations
   HEAP: Schedule time to use Sandi's computer for PDF app
   HEAP: Fix bugs with HEAP docs and verifications
 
+Blocker:
+  HEAP: Why isn't farming income requested on letters? ARGH!
+
 This week:
 
 Someday:
+  co.prism.local:/rails/prism/tmp/receipt_confirmations 9.2GB
 
 Things to show:
