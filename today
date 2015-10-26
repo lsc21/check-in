@@ -1,20 +1,19 @@
-Checkin 2015-10-22
+Checkin 2015-10-23
 
 Report:
-✓ Investigated CPU spike on PA Production
-✓ HEAP: Fixed Expenses bugs
-  HEAP: Fixed some HEAP Additional Questions bugs
-  HEAP: Figure out why farming income isn't requested for letters
+✓ HEAP: Fixed what I think is the last Expense bug
+✓ HEAP: Fixed all HEAP Additional Questions bugs
+✓ HEAP: Fix reported Applicant Step bugs
+✓ Updated BenePhilly logos on PRISM letters
+✓ HEAP: Fix reported bugs with docs and verifications
+✓ HEAP: Requested time to use Sandi's computer for PDF app
+✓ Fixed HEAP: Fix problems with letter translations
 
 Today:
-  HEAP: Ensure validation only occurs for HEAP expenses
-  HEAP: Fix remaining Additional Questions bugs
-  HEAP: Fix problems with letter translations
-  HEAP: Schedule time to use Sandi's computer for PDF app
-  HEAP: Fix bugs with HEAP docs and verifications
+  HEAP: Make HEAP PDF editable
+  HEAP: Start writing form_controller, form_data and form_builder
 
 Blocker:
-  HEAP: Why isn't farming income requested on letters? ARGH!
 
 This week:
 
