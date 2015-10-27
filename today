@@ -1,19 +1,18 @@
-Checkin 2015-10-26
+Checkin 2015-10-27
 
 Report:
-✓ HEAP: Fixed what I think is the last Expense bug
-✓ HEAP: Fixed all HEAP Additional Questions bugs
-✓ HEAP: Fix reported Applicant Step bugs
-✓ HEAP: Fix reported bugs with docs and verifications
-✓ HEAP: Requested time to use Sandi's computer for PDF app
+✓ HEAP: Fixed "Insufficient" info bug in Estimations
+✓ HEAP: Obtained Adobe Acrobat software and license
 ✓ HEAP: Fixed reported bugs with letter translations
-✓ Updated BenePhilly logos on PRISM letters
+✓ HEAP: Completed Brandywine Safety Video Course
+✓ 106022094: Fixed HEAP-related validation errors appearing for SNAP
 
 Today:
+  HEAP: More changex to Expense step
+  HEAP: More changex to Wrap Up Step
+  HEAP: More changes to Letters
   HEAP: Make HEAP PDF editable
-  HEAP: Start writing form_controller, form_data and form_builder
-  HEAP: Complete Brandywine Safety Video Course
-  106022094: Fix HEAP-related validation errors appearing for SNAP
+  HEAP: Continue working on form_controller, form_data and form_builder
 
 Blocker:
 
