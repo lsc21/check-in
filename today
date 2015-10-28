@@ -1,18 +1,14 @@
-Checkin 2015-10-27
+Checkin 2015-10-28
 
 Report:
-✓ HEAP: Fixed "Insufficient" info bug in Estimations
-✓ HEAP: Obtained Adobe Acrobat software and license
-✓ HEAP: Fixed reported bugs with letter translations
-✓ HEAP: Completed Brandywine Safety Video Course
-✓ 106022094: Fixed HEAP-related validation errors appearing for SNAP
+✓ HEAP: Fixed "Deducted from SSA check" bug with Medicaid B/D
+* HEAP: PDF Application
+* HEAP: Estimations
+✓ 106755306: Bug related to 7.0 release
 
 Today:
-  HEAP: More changex to Expense step
-  HEAP: More changex to Wrap Up Step
-  HEAP: More changes to Letters
-  HEAP: Make HEAP PDF editable
-  HEAP: Continue working on form_controller, form_data and form_builder
+  HEAP: PDF Application
+  HEAP: Estimations
 
 Blocker:
 
