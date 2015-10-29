@@ -1,13 +1,15 @@
-Checkin 2015-10-28
+Checkin 2015-10-29
 
 Report:
-✓ HEAP: Fixed "Deducted from SSA check" bug with Medicaid B/D
-* HEAP: PDF Application
+* HEAP: Paper Application
 * HEAP: Estimations
-✓ 106755306: Bug related to 7.0 release
+  HEAP: Queues
+  HEAP: Document Assistance Question
+  HEAP: Submission Confirmation Letter
+  HEAP: Snapshot
 
 Today:
-  HEAP: PDF Application
+  HEAP: Paper Application
   HEAP: Estimations
 
 Blocker:
