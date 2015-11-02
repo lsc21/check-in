@@ -1,23 +1,19 @@
-Checkin 2015-10-30
+Checkin 2015-11-02
 
 Report:
-✓ HEAP: 103279764 Estimations
-✓ HEAP: 103279418 Snapshot
-✓ HEAP: 106882520 Document Assistance Question
-* HEAP: Additional Questions Step
+✓ HEAP: 103279170 Additional Questions
+* HEAP: 106960238 Agreement
+* HEAP: 106882996 Submission Confirmation Letter
 * HEAP: 106881416 Queues
 * HEAP: 103279298 Paper Application
 
 Today:
-  HEAP: 103279170 Additional Questions - (one last small bug, ugh)
-  HEAP: 106960238 Agreement - (new)
-  HEAP: 106882996 Submission Confirmation Letter - (new)
-  HEAP: 106881416 Queues - (debugging)
-  HEAP: 103279298 Paper Application - (ongoing)
+  HEAP: 106882996 Submission Confirmation Letter
+  HEAP: 106960238 Agreement
+  HEAP: 106881416 Queues
+  HEAP: 103279298 Paper Application
 
 Blocker:
-- Can't figure out why validatios keep appearing for the one last small
-  additional questions bug
 
 This week:
 
