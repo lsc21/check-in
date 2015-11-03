@@ -1,17 +1,15 @@
-Checkin 2015-11-02
+Checkin 2015-11-03
 
 Report:
-✓ HEAP: 103279170 Additional Questions
-* HEAP: 106960238 Agreement
-* HEAP: 106882996 Submission Confirmation Letter
+✓ HEAP: 103279394 Letter Translations
+✓ HEAP: Expense Step - bug
 * HEAP: 106881416 Queues
 * HEAP: 103279298 Paper Application
 
 Today:
-  HEAP: 106882996 Submission Confirmation Letter
-  HEAP: 106960238 Agreement
   HEAP: 106881416 Queues
   HEAP: 103279298 Paper Application
+  HEAP: 103279764 Estimations - bugs
 
 Blocker:
 
