@@ -1,19 +1,14 @@
-Checkin 2015-11-04
+Checkin 2015-11-05
 
 Report:
-✓ HEAP: 106881416 Queues
 * HEAP: 103279298 Paper Application
-* HEAP: 103279048 Expense Step
+✓ HEAP: 103279048 Expense Step
+✓ HEAP: 103279764 Estimations
 
 Today:
   HEAP: 103279298 Paper Application
-  HEAP: 103279764 Estimations - bugs
-  HEAP: 103279048 Expense Step
-  HEAP: Check in with Nate
-  October Timesheet
 
 Blocker:
-  Expense step complexity
 
 This week:
 
