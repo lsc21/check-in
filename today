@@ -1,13 +1,12 @@
-Checkin 2015-11-11
+Checkin 2015-11-12
 
 Report:
-* Fixing HEAP Bugs
-✓ Document Submission: Multiple endpoints for an app center
+✓ HEAP: Add additional page to paper app for listing other incomes
+✓ HEAP: Fix bug with generation of submission confirmation letter
 
 Today:
-  HEAP: Add additional page to paper app for listing other incomes
-  HEAP: Organize the storage of SNAP & HEAP doc submissions
-  HEAP: Fix bug with generation of submission confirmation letter
+  HEAP: Test fax submission via Lotus Notes
+  HEAP: Fix remaining bugs
 
 Blocker:
 
