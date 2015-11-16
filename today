@@ -1,14 +1,15 @@
-Checkin 2015-11-12
+Checkin 2015-11-16
 
 Report:
-* HEAP: Fix remaining bugs
-* HEAP: Test fax submission via Lotus Notes
+* Fixing HEAP Bugs
+* HEAP: Organize the storage of SNAP & HEAP doc submissions
+✓ HEAP: Add additional page to paper app for listing other incomes
+✓ HEAP: Fix bug with generation of submission confirmation letter
 
 Today:
-  HEAP: 108008582 Validations for clients with Medicaid CIN
-  HEAP: 106882996 Submission Confirmation Testing
-  HEAP: 107949908 Electric Account Number
-  HEAP: Fix remaining bugs
+  HEAP: Remvoe unneeded pages from paper application
+  HEAP: Make "Other incomes" page optional in PDF
+  HEAP: Debug communication problem with Notes
 
 Blocker:
 
