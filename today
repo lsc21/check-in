@@ -1,15 +1,13 @@
-Checkin 2015-11-16
+Checkin 2015-11-18
 
 Report:
-* Fixing HEAP Bugs
-* HEAP: Organize the storage of SNAP & HEAP doc submissions
-✓ HEAP: Add additional page to paper app for listing other incomes
-✓ HEAP: Fix bug with generation of submission confirmation letter
+✓ HEAP: 106882996 Auto-generate submission confirmation
+✓ HEAP: 108333626 Residential Address bug
+✓ HEAP: 108342018 Stopped income appearing on PDF
 
 Today:
-  HEAP: Remvoe unneeded pages from paper application
-  HEAP: Make "Other incomes" page optional in PDF
-  HEAP: Debug communication problem with Notes
+  HEAP: Fix remaining bugs with paper application
+  NYC-LIS: Read state documentation for benefit
 
 Blocker:
 
