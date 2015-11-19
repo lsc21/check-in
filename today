@@ -1,13 +1,11 @@
-Checkin 2015-11-18
+Checkin 2015-11-19
 
 Report:
-✓ HEAP: 106882996 Auto-generate submission confirmation
-✓ HEAP: 108333626 Residential Address bug
-✓ HEAP: 108342018 Stopped income appearing on PDF
+✓ HEAP: 103279298 Paper Application - Itemize incomes
+* NYC-LIS: Create working version of benefit
 
 Today:
-  HEAP: Fix remaining bugs with paper application
-  NYC-LIS: Read state documentation for benefit
+  NYC-LIS: Create working version of benefit
 
 Blocker:
 
