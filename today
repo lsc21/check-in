@@ -1,10 +1,13 @@
-Checkin 2015-11-19
+Checkin 2015-11-20
 
 Report:
-✓ HEAP: 103279298 Paper Application - Itemize incomes
+* HEAP: Estimation Spec
 * NYC-LIS: Create working version of benefit
 
 Today:
+  HEAP: Alter relationships text so it fits in PDF field
+  nyc.betaprism: Delayed::Job queueing but not invoking jobs
+  HEAP: Estimation Spec
   NYC-LIS: Create working version of benefit
 
 Blocker:
