@@ -1,14 +1,13 @@
-Checkin 2015-11-20
+Checkin 2015-11-23
 
 Report:
-* HEAP: Estimation Spec
+✓ HEAP: Estimation Spec
+✓ HEAP: Alter relationships text so it fits in PDF field
 * NYC-LIS: Create working version of benefit
 
 Today:
-  HEAP: Alter relationships text so it fits in PDF field
-  nyc.betaprism: Delayed::Job queueing but not invoking jobs
-  HEAP: Estimation Spec
   NYC-LIS: Create working version of benefit
+  Fix some broken tests
 
 Blocker:
 
