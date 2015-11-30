@@ -1,19 +1,16 @@
-Checkin 2015-11-24
+Checkin 2015-11-30
 
 Report:
-✓ 108774648: HEAP needs an "Ineligible Housing type" close out
-✓ 108774350: Spuse relationship field bug
-✓ Submitted HEAP applications not queued for faxing
+✓ Addressed CPU issues on SC Beta and MD Beta
+✓ 106022094: Validation errors appearing for SNAP
+✓ 108630264: dependent college students outside of hh
+✓ 108780816: HEAP - Add Spanish version of R&R stmt
 * NYC-LIS: Create working version of benefit
-* Fix some broken tests
+* Renice Queue Check
 
 Today:
-  Fix some broken tests
   NYC-LIS: Create working version of benefit
-  108780816: HEAP - Add Spanish version of R&R stmt
-  106022094: Validation errors appearing for SNAP
-  108630264: dependent college students outside of hh
-  Renice queue_check
+  Renice Queue Check
 
 Blocker:
 
