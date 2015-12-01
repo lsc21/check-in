@@ -1,16 +1,15 @@
-Checkin 2015-11-30
+heckin 2015-12-01
 
 Report:
-✓ Addressed CPU issues on SC Beta and MD Beta
-✓ 106022094: Validation errors appearing for SNAP
-✓ 108630264: dependent college students outside of hh
-✓ 108780816: HEAP - Add Spanish version of R&R stmt
-* NYC-LIS: Create working version of benefit
-* Renice Queue Check
+✓ 108882922 Renice Queue Check
+✓ 109205034 NYC - IDs stuck in waiting on fax submission for HEAP
+* 108764040 NYC-LIS: Create working version of benefit
 
 Today:
-  NYC-LIS: Create working version of benefit
-  Renice Queue Check
+  108764040 NYC-LIS: Create working version of benefit
+  107927960 NYC Scans slow/must hit process multiple times before moving
+  106022094 Validation errors appearing for SNAP
+  108630264 dependent college students outside of hh
 
 Blocker:
 
