@@ -1,20 +1,22 @@
-Checkin 2015-12-01
+Checkin 2015-12-03
 
 Report:
-✓ 109306902 Authorized representative form
-✓ 109296362 HEAP submission confirmation letters when SNAP is in play
+✓ 109362406 generate all heap submission confirmation letters in english
 ✓ 108630264 dependent college students outside of hh
-* 108764040 NYC-LIS: Create working version of benefit
+✓ 109296362 HEAP submission confirmation letters when SNAP is in play
+✓ 109359476 HEAP submission confirmation letter phone number
+✓ 109386974 Update page order for HEAP PDFs
+* 108764040 Add Extra Help benefit to NYC
 
 Today:
-  109296538 HEAP submission confirmation letters in non-English languages
-  108764040 NYC-LIS: Create working version of benefit
+  109376652 Add Quick Screening Step for Medicaid (aka MA) and MSP
+  109378774 Add Income Step for Medicaid and MSP
+  108764040 Add Extra Help benefit to NYC (debugging)
 
 Blocker:
-  108764040 NYC-LIS: Additional Questions not appearing
 
 This week:
-  106022094 Validation errors appearing for SNAP
+  109296538 HEAP submission confirmation letters in non-English languages
   107927960 NYC Scans slow/must hit process multiple times before moving
 
 Someday:
