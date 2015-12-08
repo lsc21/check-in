@@ -5,6 +5,7 @@ Report:
 * 108956456 NYC and Colorado - HEAP applications and Authorized Rep document
 * 109535228 Reported by Stuart: IDs appear to be entering the WAITING ON FAX SUBMISSION
             Queue for NYC, but they are not showing up on the Lotus Notes database.
+* 109461812 NYC HEAP - Pension income documentation requested when it is not counted
 ✓ 109473294 NYC will not fax documents if they have previously been faxed for another benefit.
 
 Today:
@@ -12,6 +13,7 @@ Today:
   108956456 NYC and Colorado - HEAP applications and Authorized Rep document
   109535228 Reported by Stuart: IDs appear to be entering the WAITING ON FAX SUBMISSION
             Queue for NYC, but they are not showing up on the Lotus Notes database.
+  109461812 NYC HEAP - Pension income documentation requested when it is not counted
   Medicaid NYC Benefit Application PDF
 
 Blocker:
