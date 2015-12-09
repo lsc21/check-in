@@ -1,12 +1,14 @@
-Checkin 2015-12-08
+Checkin 2015-12-09
 
 Report:
 * 109551188 Authorized Representative applications not attaching to sub conf letters in some ports
-* 108956456 NYC and Colorado - HEAP applications and Authorized Rep document
 * 109535228 Reported by Stuart: IDs appear to be entering the WAITING ON FAX SUBMISSION
             Queue for NYC, but they are not showing up on the Lotus Notes database.
 * 109461812 NYC HEAP - Pension income documentation requested when it is not counted
+✓ 108956456 NYC and Colorado - HEAP applications and Authorized Rep document
 ✓ 109473294 NYC will not fax documents if they have previously been faxed for another benefit.
+✓ 109397082 Add "El Paso" as eligible county for CO
+✓ 109399366 Add user initials under "Name of Person, if any, who assisted you"
 
 Today:
   109551188 Authorized Representative applications not attaching to sub conf letters in some ports
@@ -14,6 +16,7 @@ Today:
   109535228 Reported by Stuart: IDs appear to be entering the WAITING ON FAX SUBMISSION
             Queue for NYC, but they are not showing up on the Lotus Notes database.
   109461812 NYC HEAP - Pension income documentation requested when it is not counted
+  108865266 NYC - In the Applicant step, CIN number should be visible for HEAP
   Medicaid NYC Benefit Application PDF
 
 Blocker:
