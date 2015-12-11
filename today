@@ -1,22 +1,15 @@
-Checkin 2015-12-10
+Checkin 2015-12-11
 
 Report:
-* 109461812 NYC HEAP - Pension income documentation requested when it is not counted
-* 109473294 NYC will not fax documents if they have previously been faxed for another benefit.
-✓ 109460206 HEAP applications not attaching to sub conf letters in some ports
-✓ 109535228 Reported by Stuart: IDs appear to be entering the WAITING ON FAX SUBMISSION
-            Queue for NYC, but they are not showing up on the Lotus Notes database.
+✓ 109461812 NYC HEAP - Pension income documentation requested when it is not counted
+✓ 109473294 NYC will not fax documents if they have previously been faxed for another benefit.
 ✓ 109551188 Authorized Representative applications not attaching to sub conf letters in some ports
-✓ 108865266 NYC - In the Applicant step, CIN number should be visible for HEAP
+✓ 106022094 Validation errors appearing for SNAP
 
 Today:
-  109461812 NYC HEAP - Pension income documentation requested when it is not counted
-  109473294 NYC will not fax documents if they have previously been faxed for another benefit.
   Medicaid NYC Benefit Application PDF
-  106022094 Validation errors appearing for SNAP even when someone meets the
-            criteria (because they are outside of the HH)
+  109461812 NYC HEAP - Pension income documentation requested when it is not counted
   109827472 HEAP doc req letters non-English
-
 
 Blocker:
 
