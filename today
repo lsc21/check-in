@@ -1,15 +1,11 @@
-Checkin 2015-12-11
+Checkin 2015-12-14
 
 Report:
 ✓ 109461812 NYC HEAP - Pension income documentation requested when it is not counted
-✓ 109473294 NYC will not fax documents if they have previously been faxed for another benefit.
-✓ 109551188 Authorized Representative applications not attaching to sub conf letters in some ports
-✓ 106022094 Validation errors appearing for SNAP
+* Medicaid NYC Benefit Application PDF
 
 Today:
   Medicaid NYC Benefit Application PDF
-  109461812 NYC HEAP - Pension income documentation requested when it is not counted
-  109827472 HEAP doc req letters non-English
 
 Blocker:
 
