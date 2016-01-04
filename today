@@ -1,18 +1,25 @@
-Checkin 2015-12-31
-
 Report:
-✓ MSP Paper Application
+✓ Generate paper apps with creation of initial doc request
+* 110705880 HEAP Submission Confirmation Letters
 
 Today:
+* 110705880 HEAP Submission Confirmation Letters
   Generate paper apps with creation of initial doc request
-  110705880 HEAP Submission Confirmation Letters
 
 Blocker:
 
 This week:
   109296538 HEAP submission confirmation letters in non-English languages
+  109827472 HEAP doc req letters non-English
+  110078760 Non-English HEAP PDFs
 
 Someday:
   co.prism.local:/rails/prism/tmp/receipt_confirmations 9.2GB
+
+Personal Development
+  READ:
+    Enumerator::Lazy
+    Comparablea
+    Proc
 
 Things to show:
