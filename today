@@ -1,17 +1,17 @@
 Report:
-✓ Generate paper apps with creation of initial doc request
-* 110705880 HEAP Submission Confirmation Letters
-
-Today:
-* 110705880 HEAP Submission Confirmation Letters
-  Generate paper apps with creation of initial doc request
+✓ 110770302 Extra Help- Display resource limit in the benefit box on the left
+✓ 110770286 Extra Help- Finalize Step
+✓ 110770266 Extra Help- Self employment income
+✓ 110770164 Extra Help- Applicants step
+✓ 110770256 Extra Help- Additional questions step
+✓ 110770096 Extra Help- Display start and stop dates for income
+* 110770080 Extra Help- Omit "Currently in household?" from HH member pop up
 
 Blocker:
 
 This week:
-  109296538 HEAP submission confirmation letters in non-English languages
-  109827472 HEAP doc req letters non-English
-  110078760 Non-English HEAP PDFs
+  110770080 Extra Help- Omit "Currently in household?" from HH member pop up
+  Extra Help Document Submission
 
 Someday:
   co.prism.local:/rails/prism/tmp/receipt_confirmations 9.2GB
