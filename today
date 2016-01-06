@@ -1,15 +1,18 @@
 Report:
-✓ 110770302 Extra Help- Display resource limit in the benefit box on the left
-✓ 110770286 Extra Help- Finalize Step
-✓ 110770266 Extra Help- Self employment income
-✓ 110770164 Extra Help- Applicants step
-✓ 110770256 Extra Help- Additional questions step
-✓ 110770096 Extra Help- Display start and stop dates for income
-* 110770080 Extra Help- Omit "Currently in household?" from HH member pop up
+✓ 110770080 Extra Help- Omit "Currently in household?" from HH member pop up
+* 109923352 MSP Paper Application - New page for Additional Incomes
+* 109893614 Medicaid Paper Application
 
-Blocker:
-  110770080 Extra Help- Omit "Currently in household?" from HH member pop up
-  Extra Help Document Submission
+Today:
+  109923352 MSP Paper Application - New page for Additional Incomes
+  109893614 Medicaid Paper Application
+            - Make sure Medicaid Supplement is attaching properly
+            - Citizenship status is not transferring
+            - Section B - Checkboxes bugs
+            - Date fields - Remove transparency and format MM/DDYY
+            - Veteran field bug
+            - "is anyone on medicare" bug
+            - Insurance plan bug
 
 This week:
   110770080 Extra Help- Omit "Currently in household?" from HH member pop up
