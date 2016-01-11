@@ -1,17 +1,15 @@
 Report:
-* 109923352 MSP Paper Application - New page for Additional Incomes
-* 109893614 Medicaid Paper Application
-✓ 111245466 Extra help- estimations
-✓ 111244640 Extra Help- Income step
+✓ Annual Review Form
+✓ 109923352 MSP Paper Application
+✓ 109893614 Medicaid Paper Application
+* 109911628 Medicaid and MSP queue processes
 
 Today:
-  109923352 MSP Paper Application - New page for Additional Incomes
-  109893614 Medicaid Paper Application
-  Annual Review Form
+  109911628 Medicaid and MSP queue processes
+  110884262 Add under 60/not disabled estimation rules for SNAP in NYC
+  106878698 Add translations for 8 week NR letter for SCRIE and Medicaid/MSP
 
 This week:
-  110770080 Extra Help- Omit "Currently in household?" from HH member pop up
-  Extra Help Document Submission
 
 Someday:
   co.prism.local:/rails/prism/tmp/receipt_confirmations 9.2GB
