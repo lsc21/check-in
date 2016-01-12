@@ -1,18 +1,16 @@
 Report:
-✓ Annual Review Form
-✓ 109923352 MSP Paper Application
 ✓ 109893614 Medicaid Paper Application
-* 109911628 Medicaid and MSP queue processes
+✓ 109911628 Medicaid and MSP queue processes
+✓ 111518416 Move receiipt confirmations from CO local to bdt-file1
 
 Today:
-  109911628 Medicaid and MSP queue processes
-  110884262 Add under 60/not disabled estimation rules for SNAP in NYC
-  106878698 Add translations for 8 week NR letter for SCRIE and Medicaid/MSP
+  Fix any remaining Medicaid issues
+  110432272 Submission helper for FSP doesnt display HH members income.
+  85220072 Add language column to Final Sign. Call queue
 
 This week:
 
 Someday:
-  co.prism.local:/rails/prism/tmp/receipt_confirmations 9.2GB
 
 Personal Development
   READ:
