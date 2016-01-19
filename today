@@ -1,15 +1,12 @@
 Report:
-* 109893614 Medicaid Paper Application
-  - queueu progression bug
-  - in kind bug
-  - corrections
-* 111542036 Add medical expense question to Additional step
+✓ Configured NGINX to proxy to puma on pa.betafasttrack.local
+
 
 Today:
-  109893614 Medicaid Paper Application
-  111542036 Add medical expense question to Additional step
-  110884262 Add under 60/not disabled estimation rules for SNAP in NYC
-  106878698 Add translations for 8 week NR letter for SCRIE and Medicaid/MSP
+  85938488 SNAP authorized representative and mailing address
+  100030888 Apps stuck in "Screening Needs Attention
+  85220072 Add language column to Final Sign. Call queue
+  Configure upstart management of puma, eventory
 
 This week:
 
