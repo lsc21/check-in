@@ -1,12 +1,9 @@
 Report:
-✓ Configured NGINX to proxy to puma on pa.betafasttrack.local
-
+✓ 85938488 SNAP authorized representative and mailing address
 
 Today:
-  85938488 SNAP authorized representative and mailing address
   100030888 Apps stuck in "Screening Needs Attention
   85220072 Add language column to Final Sign. Call queue
-  Configure upstart management of puma, eventory
 
 This week:
 
