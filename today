@@ -1,11 +1,8 @@
 Report:
-✓ 112052727 NYC- Unable to view submission helper
-* 85220072 Add language column to Final Sign. Call queue
-* 100030888 Apps stuck in "Screening Needs Attention
+✓ 85220072 Add language column to Final Sign. Call queue
+✓ 100030888 Apps stuck in "Screening Needs Attention
 
 Today:
-  85220072 Add language column to Final Sign. Call queue
-  100030888 Apps stuck in "Screening Needs Attention
   109392568 MD suffix not appearing in submission helper
   107813514 Need to differentiate between responder and nonresponder letters in activity log
   93846090 Terminating an in progress ESAP or SCCAP application in PRISM
