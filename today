@@ -1,10 +1,12 @@
 Report:
-✓ 112380753 Medicaid and MSP - submit manually
-* 93848530 Document expiration
+✓ 93848530 Document expiration
+✓ FT Upstart Config
+✓ FT PaperClip Document Mgmt
 
 Today:
-  93848530 Document expiration
-  35040277 Add Auth Rep to contact information bar
+  102382460 Remove Quick Screening Income and Resource questions
+  112230767 MD- Always display expense question in submission helper
+  109669760 Add SC and CO production and training sites to the "App Center" drop down for moving portfolios
 
 This week:
 
