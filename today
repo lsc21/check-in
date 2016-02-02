@@ -1,11 +1,10 @@
 Report:
 ✓ 93848530 Document expiration
-✓ FT Upstart Config
-✓ FT PaperClip Document Mgmt
+* 112230767 MD- Always display expense question in submission helper
 
 Today:
-  102382460 Remove Quick Screening Income and Resource questions
   112230767 MD- Always display expense question in submission helper
+  102382460 Remove Quick Screening Income and Resource questions
   109669760 Add SC and CO production and training sites to the "App Center" drop down for moving portfolios
 
 This week:
