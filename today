@@ -1,10 +1,10 @@
 Report:
-* 113084093 Add per-residency timeline to HH members step
+✓ 113084093 Add per-residency timeline to HH members step
+✓ 113482827 "SCREENED" button appearing in the 1st and 2nd signature call
+  queues, seemingly as a side effect of #85220072
 
 Today:
-  113084093 Add per-residency timeline to HH members step
-  113482827 "SCREENED" button appearing in the 1st and 2nd signature call
-  queues, seemingly as a side effect of #85220072
+  113660517 Build angular directive for *anyone* questions
 
 This week:
 
