@@ -1,9 +1,10 @@
 Report:
-✓ Upgrade NGINX on beta servers
-* Upgrade NGINX on training servers
-* 113660563 Residence form builder
+✓ Upgrade NGINX on SC & CO Production
 
 This week:
+* 113660563 Residency form - row insertion
+                           - validation
+Adding anyone questions from PRISM
 
 Someday:
 
