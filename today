@@ -1,10 +1,11 @@
 Report:
-✓ Upgrade NGINX on SC & CO Production
+✓ Upgrade NGINX on PA, NYC, MD in Production
+✓ 113660563 CP: Residency form - row insertion & validation
 
 This week:
-* 113660563 Residency form - row insertion
-                           - validation
-Adding anyone questions from PRISM
+  114776595 CP: add tabbed navigation to HH step
+  114721497 CP: Hide end-date field if address is current
+  114718749 CP: Replicate PRISM "Anyone question" layout and behavior
 
 Someday:
 
