@@ -1,11 +1,13 @@
 Report:
-✓ Upgrade NGINX on PA, NYC, MD in Production
-✓ 113660563 CP: Residency form - row insertion & validation
+✓ 114776595 CP: add tabbed navigation to HH step
+✓ 114721497 CP: Hide end-date field if address is current
+* 114718749 CP: Replicate PRISM "Anyone question" layout and behavior
 
 This week:
-  114776595 CP: add tabbed navigation to HH step
-  114721497 CP: Hide end-date field if address is current
-  114718749 CP: Replicate PRISM "Anyone question" layout and behavior
+  Update anyone-question wording to match person facts
+  Start saving HH data
+  114780811 figure out why sphinxsearch doesn't start reliably at boot
+
 
 Someday:
 
