@@ -1,12 +1,9 @@
 Report:
-✓ 114776595 CP: add tabbed navigation to HH step
-✓ 114721497 CP: Hide end-date field if address is current
-* 114718749 CP: Replicate PRISM "Anyone question" layout and behavior
+* Fix remaining bugs with saving HH members
 
 This week:
-  Update anyone-question wording to match person facts
-  Start saving HH data
-  114780811 figure out why sphinxsearch doesn't start reliably at boot
+  Save anyone question data
+  Save residency timeline data
 
 
 Someday:
