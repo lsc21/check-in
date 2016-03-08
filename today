@@ -1,5 +1,16 @@
 Report:
-* Fix remaining bugs with saving HH members
+✓ Fixed remaining bugs with saving HH members
+✓ Fixed bugs with anyone questions
+
+Today
+  Save street address / mailing Address
+  Save meal groups
+
+
+ This week:
+ -  114780811 figure out why sphinxsearch doesn't start reliably at boot
+ +  Save anyone question data
+ +  Save residency timeline data
 
 This week:
   Save anyone question data
