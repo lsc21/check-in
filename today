@@ -1,10 +1,9 @@
 Report:
-✓ Save HH Member Timelines
-* figure out why Residence objs aren't saving
+✓ Residence objs, them move onto other parts of the interview UI
 
 Today
-  Residence objs, them move onto other parts of the interview UI
-
+  Angular service for translations
+  Household Relationships
 
  This week:
  -  114780811 figure out why sphinxsearch doesn't start reliably at boot
