@@ -1,9 +1,7 @@
 Report:
-✓ Residence objs, them move onto other parts of the interview UI
 
 Today
-  Angular service for translations
-  Household Relationships
+* Household Relationships
 
  This week:
  -  114780811 figure out why sphinxsearch doesn't start reliably at boot
