@@ -1,12 +1,15 @@
 Report:
+✓ Gender-based relationship filtering
+✓ Aded UI to remove HH members
+✓ Fixed bug that cause all Person facts to post with timeline changes
 
 Today
-* Household Relationships
-
- This week:
- -  114780811 figure out why sphinxsearch doesn't start reliably at boot
- +  Save anyone question data
- +  Save residency timeline data
+  Get chosen working with Relationship selects
+  Household - Designate Primary Member
+  Person - add / edit phones
+  Person - Designate as phone contact
+  Make relationship UI match that of PRISM
+  Review Passenger / NGINX config with Preston
 
 This week:
   Save anyone question data
