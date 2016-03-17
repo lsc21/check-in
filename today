@@ -1,19 +1,19 @@
 Report:
-✓ Gender-based relationship filtering
-✓ Aded UI to remove HH members
-✓ Fixed bug that cause all Person facts to post with timeline changes
+✓ Household - Designate Primary Member
+✓ Person - add / edit phones
+✓ Review Passenger / NGINX config with Preston
+* Person - Designate as phone contact
+* Make relationship UI match that of PRISM
+
 
 Today
   Get chosen working with Relationship selects
-  Household - Designate Primary Member
-  Person - add / edit phones
   Person - Designate as phone contact
-  Make relationship UI match that of PRISM
-  Review Passenger / NGINX config with Preston
+  Make relationship UX match that of PRISM
+  Improve Member management UI
+  Talk with Nate, Boris & Carl about CP UI
 
 This week:
-  Save anyone question data
-  Save residency timeline data
 
 
 Someday:
