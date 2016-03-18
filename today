@@ -1,20 +1,15 @@
 Report:
-✓ Household - Designate Primary Member
-✓ Person - add / edit phones
-✓ Review Passenger / NGINX config with Preston
-* Person - Designate as phone contact
-* Make relationship UI match that of PRISM
-
+✓ Person - Designate as phone contact
+✓ Improve Member management UI
+✓ Get Chosen working with Relationship selects
+* Get CP, Prism, Eventory working in concert on my machine
+* CP: Tax Filing Groups
 
 Today
-  Get chosen working with Relationship selects
-  Person - Designate as phone contact
-  Make relationship UX match that of PRISM
-  Improve Member management UI
-  Talk with Nate, Boris & Carl about CP UI
+  Get CP, Prism, Eventory working in concert on my machine
+  CP: Tax Filing Groups
 
 This week:
-
 
 Someday:
 
