@@ -1,13 +1,11 @@
 Report:
-✓ Person - Designate as phone contact
-✓ Improve Member management UI
-✓ Get Chosen working with Relationship selects
-* Get CP, Prism, Eventory working in concert on my machine
-* CP: Tax Filing Groups
+✓ Get CP, Prism, Eventory working in concert on my machine
+✓ CP: Tax Filing Groups - save groupings
 
 Today
-  Get CP, Prism, Eventory working in concert on my machine
-  CP: Tax Filing Groups
+  CP: Tax Filing Groups - save primary, dependents
+  CP: Tax Filing Groups - save non-filer
+  CP: Relationships - fix bug where new relationships are saved in DB but not in scope
 
 This week:
 
