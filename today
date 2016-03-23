@@ -1,11 +1,8 @@
 Report:
-✓ CP: Tax Filing Groups - save primary, dependents
-✓ CP: Tax Filing Groups - save non-filers
-* CP: Relationships - fix bug where new relationships are saved in DB but not in scope
+✓ CP: Relationships - fix bug where new relationships are saved in DB but not in scope
 
 Today
-  CP: Relationships - fix bug where new relationships are saved in DB but not in scope
-  Move HH questions To correct tabs
+  Move HH questions to correct tabs
 
 This week:
 
