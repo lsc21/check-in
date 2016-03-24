@@ -1,8 +1,9 @@
 Report:
-✓ CP: Relationships - fix bug where new relationships are saved in DB but not in scope
+
 
 Today
-  Move HH questions to correct tabs
+  Who Question - when yes or no colhead is clicked, select all radios in that column
+  Show / Hide questions based on benefit in play
 
 This week:
 
