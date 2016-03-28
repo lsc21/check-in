@@ -1,9 +1,9 @@
 Report:
-
+✓ CP: Wrote rake task to AppCenter-specific list of available benefits
 
 Today
-  Who Question - when yes or no colhead is clicked, select all radios in that column
-  Show / Hide questions based on benefit in play
+  CP: Adding JS to show questions if we have an answer stored
+  CP: Adding JS to show questions if that qestion is required for the benefit
 
 This week:
 
