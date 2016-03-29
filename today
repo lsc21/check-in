@@ -1,9 +1,10 @@
 Report:
-✓ CP: Wrote rake task to AppCenter-specific list of available benefits
+✓ CP: Adding JS to show questions if we have an answer stored
+✓ CP: Adding JS to show questions if that qestion is required for the benefit
 
 Today
-  CP: Adding JS to show questions if we have an answer stored
-  CP: Adding JS to show questions if that qestion is required for the benefit
+  CP: Adding missing HH member questions
+  CP: Test show-question logic
 
 This week:
 
