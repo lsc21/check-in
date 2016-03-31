@@ -1,10 +1,12 @@
 Report:
-✓ CP: Adding JS to show questions if we have an answer stored
-✓ CP: Adding JS to show questions if that qestion is required for the benefit
+  CP: assisted in fixing relationship bugs
+✓ CP: added person promotion to hh member
+✓ CP: added label option for select-question directive
 
 Today
-  CP: Adding missing HH member questions
-  CP: Test show-question logic
+  CP: add any missing member-popup questions
+  CP: hh written / speaking language
+  CP: benefit closeout dialog
 
 This week:
 
