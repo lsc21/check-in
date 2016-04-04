@@ -1,12 +1,12 @@
 Report:
-  CP: assisted in fixing relationship bugs
-✓ CP: added person promotion to hh member
-✓ CP: added label option for select-question directive
+  CP: Added some missing HH questions
+  CP: moved non-essential questions for adding members to HH-Details
+  Created git repository for /etc on Feature 15
 
 Today
-  CP: add any missing member-popup questions
-  CP: hh written / speaking language
-  CP: benefit closeout dialog
+  CP: Fix bug with tax groups not appearing
+  CP: Benefit Closeout UI
+  Link /etc repo to bdt-machines github account
 
 This week:
 
