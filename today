@@ -1,12 +1,10 @@
 Report:
-  CP: Added some missing HH questions
-  CP: moved non-essential questions for adding members to HH-Details
-  Created git repository for /etc on Feature 15
+✓ CP: Fix bug with tax groups not appearing
+✓ Linked /etc repo to bdt-machines github account
+* Senior Water Discount Benefit
 
 Today
-  CP: Fix bug with tax groups not appearing
-  CP: Benefit Closeout UI
-  Link /etc repo to bdt-machines github account
+  Senior Water Discount Benefit
 
 This week:
 
