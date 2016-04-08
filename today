@@ -1,12 +1,15 @@
 Report:
-✓ SWD: Estimations, Estimation Decoratior, Applicants, Additional Questions
+✓ Senior Tax Freeze: Estimations, Estimation Decoratior
+* Senior Tax Freeze: Questions
 
 Today
-  SWD: setup testing on Feature 7
-  SWD: finish paper application
-
+  Senior Water Discount: make sure questions show-hide in CP
+  CP: Fix Tax Filer bug with newly-added HH members
+  CP: Fix Relationship reciprocity bug with newly-added HH members
+  BDT Website questionnaire, selfie and photos
 
 This week:
+  CP: PDF - Generate now button that links to populated PDF
 
 Someday:
 
