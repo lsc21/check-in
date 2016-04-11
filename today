@@ -1,11 +1,10 @@
 Report:
-✓ Senior Tax Freeze: Estimations, Estimation Decoratior
-* Senior Tax Freeze: Questions
+✓ CP: Fix Tax Filer bug with newly-added HH members
+✓ CP: Fix Relationship reciprocity bug with newly-added HH members
 
 Today
-  Senior Water Discount: make sure questions show-hide in CP
-  CP: Fix Tax Filer bug with newly-added HH members
-  CP: Fix Relationship reciprocity bug with newly-added HH members
+* Senior Water Discount: make sure questions show-hide in CP
+  Senior Tax Freeze
   BDT Website questionnaire, selfie and photos
 
 This week:
