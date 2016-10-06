@@ -1,21 +1,42 @@
 Report:
-✓ CP: Fix Tax Filer bug with newly-added HH members
-✓ CP: Fix Relationship reciprocity bug with newly-added HH members
+✓ Frequency appears twice for incomes when LIHEAP and SNAP are in play [#131651263]
+● SC: 130937879 Add new income types - SNAP, LIHEAP, Extra Help
+✓ benefit-statuses-api-REBASE atop master
 
-Today
-* Senior Water Discount: make sure questions show-hide in CP
-  Senior Tax Freeze
-  BDT Website questionnaire, selfie and photos
+Today:
+● SC: 130399009 Add document verfiications for SC LIHEAP
+● SC: 130937879 Add new income types - SNAP, LIHEAP, Extra Help
+● SC: 130449795 Add letter template for new LIHEAP letter
+  Set up PA Beta with dashboard
+
+DevOps Plan:
+  Rails Logging Format
+  Identify problems with PA deployment
+  Slack + Mina: deployment
+  Slack + Mina: server health
+  Slack + Mina: re-index search
+  Identify problem portfolios
+  Migrate from Thin to Puma
 
 This week:
-  CP: PDF - Generate now button that links to populated PDF
+  SC: Non-citizen estimations for LIHEAP
+  SC: Update non-crisis EBA
+  SC: Use radials instead of checkboxes
+  SC: Change expedited to crisis
+  SC: Add start-stop dates for LIS earned income
 
 Someday:
 
 Personal Development
   READ:
     Enumerator::Lazy
-    Comparablea
+    Comparable
     Proc
+    Yield
 
 Things to show:
+
+Unicode Character Legend:
+✓ Checkmark - Done
+● Circle - In Progress
+✗ Cross - Won't do
