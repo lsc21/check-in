@@ -1,13 +1,19 @@
 Report:
-✓ Frequency appears twice for incomes when LIHEAP and SNAP are in play [#131651263]
-● SC: 130937879 Add new income types - SNAP, LIHEAP, Extra Help
-✓ benefit-statuses-api-REBASE atop master
+✓ SC: 130937879 Add new income types - SNAP, LIHEAP, Extra Help
+✓ SC: LIHEAP should go red if no one in the household is 60+
+✓ SC: Extra help should go red if no one in household is over 60
+✓ SC: Update LIHEAP EXPEDITED to read LIHEAP CRISIS
+✓ SC: When LIHEAP is NOT CRISIS show "up to $500" instead of "up to $1000"
 
 Today:
-● SC: 130399009 Add document verfiications for SC LIHEAP
-● SC: 130937879 Add new income types - SNAP, LIHEAP, Extra Help
-● SC: 130449795 Add letter template for new LIHEAP letter
   Set up PA Beta with dashboard
+  SC: Add start and stop dates for earned income for Extra Help
+  SC: Update "Does the person whose name is on the bill reside outside of the
+      household" question to use yes/no radials instead of a check box
+  SC: Update estimations for LIHEAP incomes
+● SC: 130399009 Add document verfiications for SC LIHEAP
+● SC: 130449795 Add letter template for new LIHEAP letter
+  Outline DevOps plan
 
 DevOps Plan:
   Rails Logging Format
@@ -19,11 +25,6 @@ DevOps Plan:
   Migrate from Thin to Puma
 
 This week:
-  SC: Non-citizen estimations for LIHEAP
-  SC: Update non-crisis EBA
-  SC: Use radials instead of checkboxes
-  SC: Change expedited to crisis
-  SC: Add start-stop dates for LIS earned income
 
 Someday:
 
