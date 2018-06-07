@@ -11,12 +11,14 @@
 -  On Prem servers and gcloud backups
 -  ACLs for logging buckets, which would live in dedicated compliance projects.
 
-## Automation
+## DevOps / Automation
 — shutdown servers when not needed
 — staging environment
-— DB backups for longer periods in gcloud
-— Remove backup of on prem servers
-— backups for data science servers
+— training environment
+- Automated feature branch deployment
+— ~~DB backups for longer periods in gcloud~~ - Done by Mike
+— Remove backup of on-prem servers
+— Backups for data science servers
 
 ## Centralization Documentation
 — log, loggly, connecting with amazon
@@ -26,8 +28,8 @@
 — compliance logging
 
 ## Network
-— subnet for which project
-— VPN - single VPN
+— Subnet Organization
+— VPN - single VPN shared accross probjects
 — decommissioning old servers
 
 ## Metric and measurement
