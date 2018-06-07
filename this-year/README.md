@@ -19,6 +19,7 @@
 - ~~DB backups for longer periods in gcloud~~ - Done by Mike
 - Remove backup of on-prem servers
 - Backups for data science servers
+- single database for all app centers
 
 ## Centralization Documentation
 - log, loggly, connecting with amazon
