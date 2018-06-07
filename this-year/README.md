@@ -12,39 +12,39 @@
 -  ACLs for logging buckets, which would live in dedicated compliance projects.
 
 ## DevOps / Automation
-— shutdown servers when not needed
-— staging environment
-— training environment
+- shutdown servers when not needed
+- staging environment
+- training environment
 - Automated feature branch deployment
-— ~~DB backups for longer periods in gcloud~~ - Done by Mike
-— Remove backup of on-prem servers
-— Backups for data science servers
+- ~~DB backups for longer periods in gcloud~~ - Done by Mike
+- Remove backup of on-prem servers
+- Backups for data science servers
 
 ## Centralization Documentation
-— log, loggly, connecting with amazon
-— data expiration policy - data governance.
-— document store
-— DataDog
-— compliance logging
+- log, loggly, connecting with amazon
+- data expiration policy - data governance.
+- document store
+- DataDog
+- compliance logging
 
 ## Network
-— Subnet Organization
-— VPN - single VPN shared accross probjects
-— decommissioning old servers
+- Subnet Organization
+- VPN - single VPN shared accross probjects
+- decommissioning old servers
 
 ## Metric and measurement
-— information radiator - internal
+- information radiator - internal
 
 ## Security
-— managing secret
-— access management
-— Preventing attacks
-— vulnrability scan and pen tests
-— encryption and anti virus
-— IAM settings for gcloud
+- managing secret
+- access management
+- Preventing attacks
+- vulnrability scan and pen tests
+- encryption and anti virus
+- IAM settings for gcloud
 
 ## Documentation
-—> troubleshooting
-—> environment setup
+- troubleshooting
+- environment setup
 
 ## Disaster recovery
