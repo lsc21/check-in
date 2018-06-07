@@ -16,3 +16,6 @@
 # Tomorrow
 
 # Friday
+
+# next week
+- set up training for all engineers
