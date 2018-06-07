@@ -11,6 +11,7 @@
 - Wrap up training server deployment
 - Investigate migrating prism.local to GCP DNS
 - Draft DevOps roadmap with Jeff
+- Autoscale prod cluster
 
 # Tomorrow
 
