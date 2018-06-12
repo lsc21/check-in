@@ -1,15 +1,15 @@
-# Yesterday
+# the weekend
 
- - Will pair with Devin on documentation
- - Helped Boris with mount points for Magellan
- - Figure out why training modifications to cloudbuild break the deploy
- - IDP device probe
- - Prepare for PA deployment
+ - Sent k8s autoscaling PR
+ - Feature-branch namespaces in k8s
+ - Created static NYC prod for Triage
 
 # Today
 
-- Wrap up training server deployment
-- Investigate migrating prism.local to GCP DNS
+- Lower TTLs for prism.local to 60s
+- Updated Secrets to use k8s users and 32-char passwords
+- Investigate optimal resource allocation for deployments
+-
 - Draft DevOps roadmap with Jeff
 - Autoscale prod cluster
 
