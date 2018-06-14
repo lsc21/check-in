@@ -1,21 +1,20 @@
-# the weekend
+# yesterday
 
- - Sent k8s autoscaling PR
- - Feature-branch namespaces in k8s
- - Created static NYC prod for Triage
+ - paired with Jeff on k8s feature-branches
+ - deployed feature branches
+ - fixed a strong params issue with importing
 
 # Today
 
-- Lower TTLs for prism.local to 60s
-- Updated Secrets to use k8s users and 32-char passwords
-- Investigate optimal resource allocation for deployments
--
-- Draft DevOps roadmap with Jeff
-- Autoscale prod cluster
+- automatic branch deletion
+- NGINX pod for triages / snap-msc
+- talk with nate about Prism.local DNS
 
 # Tomorrow
 
-# Friday
+- cloudsql proxy to a daemonset
+- make env vars a helm template
+- refactor app_center.yaml
 
 # next week
 - set up training for all engineers
