@@ -1,20 +1,14 @@
 # yesterday
 
- - paired with Jeff on k8s feature-branches
- - deployed feature branches
- - fixed a strong params issue with importing
+ - Fixed NC docs bug
+ - Fixed CP search issue
 
 # Today
 
-- automatic branch deletion
+- Document the process for previewing changes in staging without domain names
+- Work on External DNS
+- Set up alpha
+- Set up training (again since the cluster was destroyed and recreated)
+- Automatic branch deletion
+- Talk with Mike about datadog
 - NGINX pod for triages / snap-msc
-- talk with nate about Prism.local DNS
-
-# Tomorrow
-
-- cloudsql proxy to a daemonset
-- make env vars a helm template
-- refactor app_center.yaml
-
-# next week
-- set up training for all engineers
