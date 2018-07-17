@@ -1,14 +1,10 @@
-# yesterday
+# Yesterday
 
- - Fixed NC docs bug
- - Fixed CP search issue
+ - Helped Boris fix a kubesec issue
+ - Helped Mike with a database issue with pace-notifications
+ - Obtained access to the SOC 2 SharePoint document store
 
 # Today
 
-- Document the process for previewing changes in staging without domain names
-- Work on External DNS
-- Set up alpha
-- Set up training (again since the cluster was destroyed and recreated)
-- Automatic branch deletion
-- Talk with Mike about datadog
-- NGINX pod for triages / snap-msc
+- Talk to Geoff about how we might integrate pubsub into DS architecture
+- Add Policy's documents to our Incident Response SOC 2 Documentation
