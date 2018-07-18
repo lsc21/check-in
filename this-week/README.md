@@ -11,6 +11,9 @@
 - Make sure seeds run in non-master branch deployments
 - RVTool analysis of VMWare - send results to steve
 - Automate build of local environment
+- Prod night mode
+- Receipt Permissions
+- Temp Receipt Folder Not Auto-Clearing
 
 # Tomorrow
 
