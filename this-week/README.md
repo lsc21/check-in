@@ -1,15 +1,18 @@
 # Yesterday
 
- - Documentation
+- Talk to Geoff about how we might integrate pubsub into DS architecture
+- Conference call with Integra
+- Bug fixes
+- Decreased build time
 
 # Today
 
-- Talk to Geoff about how we might integrate pubsub into DS architecture
-- Conference call with Integra
-- Automate build of local environ
+- Fix broken tests
+- Make sure seeds run in non-master branch deployments
+- RVTool analysis of VMWare - send results to steve
+- Automate build of local environment
 
 # Tomorrow
 
+- Start PubSub Wiki with Geoff
 - Load balancer for ingress
-- RVTool analysis of VMWare - send results to steve
--
