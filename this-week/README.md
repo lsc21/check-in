@@ -1,23 +1,28 @@
-# Yesterday
+# Tuesday
 
 - Talk to Geoff about how we might integrate pubsub into DS architecture
 - Conference call with Integra
 - Bug fixes
 - Decreased build time
 
-# Today
+# Wednesday
 
 - Fix broken tests
-- Make sure seeds run in non-master branch deployments
-- RVTool analysis of VMWare - send results to steve
-- Automate build of local environment
 - Prod night mode
 - Receipt Permissions
-- Temp Receipt Folder Not Auto-Clearing
+- speed up RSPEC
 
-# Tomorrow
+# Thursday
+
+- Temp Receipt Folder Not Auto-Clearing
+- Document local deployment
+- RVTool analysis of VMWare - send results to steve
+- Make sure seeds run in non-master branch deployments
+
+# Friday
 
 - Start PubSub Wiki with Geoff
 - Load balancer for ingress
 - Help Ravindar deploy QA tool
-- speed up RSPEC
+
+# Future
