@@ -23,8 +23,13 @@
 
 # Friday
 
-- Start PubSub Wiki with Geoff
-- Load balancer for ingress
-- Help Ravindar deploy QA tool
+- Switch from cronjobs pods to pod with while loop args
+- temp receipt purge
+- msc deploy
 
 # Future
+
+- Load balancer for ingress
+- Help Ravindar deploy QA tool
+- Start PubSub Wiki with Geoff
+- Pod health checks for Rails functionality
